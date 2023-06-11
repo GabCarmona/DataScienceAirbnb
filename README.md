@@ -1,5 +1,5 @@
 # DataScienceAirbnb
-Previsão de Preços de imóveis do Airbnb no Rio de Janeiro. Dataset: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
+O projeto visa realizar a previsão de Preços de imóveis do Airbnb no Rio de Janeiro, é mostrado um exemplo ao final do README. Foi Selecionado o modelo de ExtraTrees. Para Conferir os detalhes e comentários da implementação acesso o arquivo "Solução Airbnb Rio.ipynb". Dataset: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
 
 ## Estratégia de Solução
 #### 1. Coletar os dados e consolidar dataset;
